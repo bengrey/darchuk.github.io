@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="65.6247mm" height="65.6244mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4613 4613"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:#807046}
+    .fil1 {fill:#A6905A}
+    .fil2 {fill:#AE9A66}
+    .fil0 {fill:#CFAE5B}
+    .fil6 {fill:#D1D1D1}
+    .fil5 {fill:gainsboro}
+    .fil4 {fill:#EFEFEF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_690486720">
+   <polygon class="fil0" points="144,1225 2306,2306 4469,1225 4469,3532 2306,4613 144,3532 "/>
+   <polygon class="fil1" points="144,1441 144,2115 2299,3171 4468,2112 4468,1441 2306,2501 "/>
+   <polygon class="fil2" points="2306,4613 2306,2306 288,1297 144,1297 144,3532 "/>
+   <polygon class="fil3" points="144,1441 144,2115 2299,3171 2306,3168 2306,2497 2306,2501 "/>
+   <polygon class="fil0" points="0,1150 2306,0 4613,1150 4613,1301 2306,2450 0,1305 "/>
+   <path class="fil4" d="M3629 364c-76,-137 -238,-220 -429,-220 -436,0 -742,407 -894,667 -151,-260 -461,-663 -893,-663 -278,0 -476,169 -476,400 0,411 450,677 1355,677 904,0 1384,-342 1384,-674 0,-65 -15,-129 -47,-187zm-2123 443c-101,-68 -137,-144 -137,-194 0,-62 58,-108 141,-108 195,0 349,255 436,432 -227,-18 -360,-79 -440,-130zm1600 0c-79,51 -212,112 -439,130 83,-177 238,-433 436,-433 83,0 140,47 140,109 0,50 -36,126 -137,194z"/>
+   <polygon class="fil2" points="0,1153 2306,2281 4613,1153 4613,1899 2299,3027 0,1899 "/>
+   <polygon class="fil4" points="3171,1957 3171,1874 2306,1405 1441,1874 1441,1957 865,1705 865,1589 2277,843 2306,858 2335,843 3748,1586 3748,1701 "/>
+   <polygon class="fil5" points="3171,1874 3171,4177 3748,3888 3748,1586 "/>
+   <path class="fil6" d="M865 3892l576 288 0 -2303 -576 -291c0,0 0,2306 0,2306z"/>
+  </g>
+ </g>
+</svg>
